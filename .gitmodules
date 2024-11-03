@@ -1,0 +1,6 @@
+[submodule "notero"]
+	path = notero
+	url = https://github.com/dvanoni/notero
+[submodule "zotero-pdf-translate"]
+	path = zotero-pdf-translate
+	url = https://github.com/windingwind/zotero-pdf-translate.git
