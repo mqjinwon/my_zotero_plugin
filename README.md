@@ -22,13 +22,14 @@
 
 ![파일 이름 수정 설정 예시](assets/rename.png)
 
+- Customize Filename Format에서 아래의 naming convention을 사용하고 있음
 ```text
 {{ title truncate="100" suffix="-"  }}{{ firstCreator suffix="-"  }}{{ year}}
 ```
 
 
 
-## File syn
+## File sync
 - **WebDAV**를 통한 파일 동기화 지원
 - 예시: `app.koofr.net/dav/Koofr` 경로 사용
 - 아래 이미지 참고:
