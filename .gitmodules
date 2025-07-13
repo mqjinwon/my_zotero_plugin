@@ -4,3 +4,9 @@
 [submodule "zotero-pdf-translate"]
 	path = zotero-pdf-translate
 	url = https://github.com/windingwind/zotero-pdf-translate.git
+[submodule "zotmoov"]
+	path = zotmoov
+	url = https://github.com/wileyyugioh/zotmoov.git
+[submodule "zotero-better-notes"]
+	path = zotero-better-notes
+	url = https://github.com/windingwind/zotero-better-notes.git
